@@ -1,1 +1,0 @@
--keep public class io.flutter.embedding.android.FlutterSplashView.$SavedState { *; }
